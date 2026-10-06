@@ -1,1 +1,18 @@
 Brainstorming Ideation
+Brainstorming & Ideation Phase
+
+Problem Identified:
+Creating an interesting comic story and developing characters can be difficult and time-consuming, especially for beginners.
+
+Idea:
+Build an AI-powered comic story creator using the Google Gemini API that helps users create comic stories, characters, dialogues, and creative story ideas.
+
+Why This Idea:
+
+- Combines AI-powered story creation, character generation, and dialogue writing in one app.
+- Uses generative AI to create creative and personalized comic content.
+- Makes comic creation easier and faster for beginners.
+- Simple enough to build and demonstrate within the project timeline.
+
+Project Name Chosen:
+ComicCraft-AI – Gemini Powered Comic Story Creator
